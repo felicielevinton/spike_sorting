@@ -10,28 +10,31 @@ matplotlib.use('Agg')
 
 def preprocess_and_save(
     session_path,
-    save_path,
     nbr_channel=32,
     chunk_size=10**6,
     fs=30e3
 ):
-    path_f = os.path.join(session_path, 'headstage_0')
     session_name = os.path.basename(session_path)
     print(f"Processing session: {session_name}")
 
-    if os.path.exists(os.path.join(path_f, 'good_clusters.npy')):
-        num_channel = np.load(os.path.join(path_f, 'good_clusters.npy'), allow_pickle=True)
+    # Créer le dossier spike_sorting directement dans session_path (headstage_0)
+    spike_sorting_path = os.path.join(session_path, 'spike_sorting')
+    os.makedirs(spike_sorting_path, exist_ok=True)
+
+    if os.path.exists(os.path.join(session_path, 'good_clusters.npy')):
+        # num_channel = np.load(os.path.join(session_path, 'good_clusters.npy'), allow_pickle=True)
+        num_channel = np.arange(nbr_channel)
     else:
         num_channel = np.arange(nbr_channel)
 
-    all_files_exist = all(os.path.exists(os.path.join(save_path, f'C{k}.mat')) for k in num_channel)
+    all_files_exist = all(os.path.exists(os.path.join(spike_sorting_path, f'C{k}.mat')) for k in num_channel)
     if all_files_exist:
         print(f"All 'C' files for {session_name} already exist. Skipping...")
         return
 
-    neural_file = os.path.join(path_f, 'neural_data.npy')
+    neural_file = os.path.join(session_path, 'neural_data.npy')
     if not os.path.exists(neural_file):
-        print(f"No neural data for {session_name} at {path_f}")
+        print(f"No neural data for {session_name} at {session_path}")
         return
 
     neural_data = np.load(neural_file)
@@ -50,11 +53,12 @@ def preprocess_and_save(
         chunk_filtered = recording_f.get_traces(start_frame=start, end_frame=end).astype(np.float32)
         filtered_neural_signal[start:end, :] = chunk_filtered
 
-    np.save(os.path.join(save_path, 'filtered_neural_data.npy'), filtered_neural_signal)
+    # Enregistrer le signal filtré dans spike_sorting
+    np.save(os.path.join(spike_sorting_path, 'filtered_neural_data.npy'), filtered_neural_signal)
 
     data = filtered_neural_signal.T  # transpose pour format [channels, time]
 
     for k in num_channel:
         data_C = data[k, :]
-        savemat(os.path.join(save_path, f'C{k}.mat'), {'data': data_C, 'sr': fs})
-        print(f"Saved C{k}.mat")
+        savemat(os.path.join(spike_sorting_path, f'C{k}.mat'), {'data': data_C, 'sr': fs})
+        print(f"Saved C{k}.mat in spike_sorting")

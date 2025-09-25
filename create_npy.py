@@ -1,10 +1,7 @@
 # spike_pipeline.py
 import os
 import numpy as np
-from functions_get_data import *
-from utils_extraction import get_session_type_final
-from utils_tt import *
-from spike_sorting import *
+from utils import *
 
 def create_spike_data(
     sessions,
@@ -24,19 +21,22 @@ def create_spike_data(
     for session in sessions:
         print(f"Processing session {session}...")
         chemin = os.path.join(base_data_path, session)
-        save_path = os.path.join(save_base_path, session)
+        save_path = os.path.join(save_base_path, session, 'spike_sorting/')
         os.makedirs(save_path, exist_ok=True)
 
         # Déterminer les bons channels
-        good_clusters_file = os.path.join(chemin, 'headstage_0', 'good_clusters.npy')
+        good_clusters_file = os.path.join(chemin, 'good_clusters.npy')
+        print(good_clusters_file)
         if os.path.exists(good_clusters_file):
             num_channel = np.load(good_clusters_file, allow_pickle=True)
+            #num_channel = np.arange(32)
         else:
             num_channel = np.arange(32)
         print(f"Channels: {num_channel}")
 
         # Charger les données brutes
-        neural_data_file = os.path.join(chemin, 'headstage_0', 'neural_data.npy')
+
+        neural_data_file = os.path.join(chemin,'spike_sorting/',  'filtered_neural_data.npy')
         if not os.path.exists(neural_data_file):
             print(f"Neural data missing for session {session}")
             continue

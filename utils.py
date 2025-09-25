@@ -1,5 +1,6 @@
 import numpy as np
 import scipy.io
+import pandas as pd
 
 # fichier avec fonctions utiles 
 
@@ -64,3 +65,33 @@ def create_spikes_clusters(save_path, num_channel,nbr_spikes_min):
     # Sauvegarder les résultats triés
     np.save(save_path + '/ss_spike_clusters.npy', spk_clus_f_sorted)
     np.save(save_path + '/ss_spike_times.npy', spk_times_f_sorted)
+
+
+def get_sessions(sheet_name, sheet_id, session_filter=None):
+    """Retourne les chemins de toutes les sessions valides d'une feuille Google Sheet."""
+    url = f"https://docs.google.com/spreadsheets/d/{sheet_id}/gviz/tq?tqx=out:csv&sheet={sheet_name}"
+    df = pd.read_csv(url)
+
+    # filtrage basique : uniquement celles marquées "yes"
+    filtered = df[df['use'] == 'yes']
+
+    # appliquer un filtre supplémentaire si demandé
+    if session_filter is not None:
+        filtered = filtered[filtered['type'].isin(session_filter)]
+
+    sessions = filtered['session'].tolist()
+
+    # règles pour headstages
+    if sheet_name == "HERCULE":
+        root_directory = f'/auto/data6/eTheremin/{sheet_name}/'
+        headstages = [0]
+    elif sheet_name == "ALTAI":
+        root_directory = f'/auto/data2/eTheremin/{sheet_name}/'
+        headstages = [0, 1]
+    else:
+        root_directory = f'/auto/data6/eTheremin/{sheet_name}/'
+        headstages = [0, 1]
+
+    # construire les chemins
+    paths = [f"{root_directory}{s}/headstage_{hs}/" for s in sessions for hs in headstages]
+    return paths

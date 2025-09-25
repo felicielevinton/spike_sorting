@@ -1,0 +1,824 @@
+0 of 1 'times' files finished.
+Computations Done (196.29s).
+Creating figures...
+1  
+Elapsed time is 204.035547 seconds.
+0 of 1 'times' files finished.
+Computations Done (195.69s).
+Creating figures...
+1  
+Elapsed time is 203.750129 seconds.
+0 of 1 'times' files finished.
+Computations Done (196.35s).
+Creating figures...
+1  
+Elapsed time is 203.826008 seconds.
+0 of 1 'times' files finished.
+Computations Done (198.54s).
+Creating figures...
+1  
+Elapsed time is 206.755665 seconds.
+0 of 1 'times' files finished.
+Computations Done (199.01s).
+Creating figures...
+1  
+Elapsed time is 206.940764 seconds.
+0 of 1 'times' files finished.
+Computations Done (195.08s).
+Creating figures...
+1  
+Elapsed time is 203.168688 seconds.
+0 of 1 'times' files finished.
+Computations Done (201.52s).
+Creating figures...
+1  
+Elapsed time is 212.743949 seconds.
+0 of 1 'times' files finished.
+Computations Done (199.46s).
+Creating figures...
+1  
+Elapsed time is 207.858742 seconds.
+0 of 1 'times' files finished.
+Computations Done (199.64s).
+Creating figures...
+1  
+Elapsed time is 207.900124 seconds.
+0 of 1 'times' files finished.
+Computations Done (200.68s).
+Creating figures...
+1  
+Elapsed time is 211.723551 seconds.
+0 of 1 'times' files finished.
+Computations Done (200.27s).
+Creating figures...
+1  
+Elapsed time is 208.834861 seconds.
+0 of 1 'times' files finished.
+Computations Done (200.67s).
+Creating figures...
+1  
+Elapsed time is 208.807123 seconds.
+0 of 1 'times' files finished.
+Computations Done (198.30s).
+Creating figures...
+1  
+Elapsed time is 206.618440 seconds.
+0 of 1 'times' files finished.
+Computations Done (199.86s).
+Creating figures...
+1  
+Elapsed time is 208.086312 seconds.
+0 of 1 'times' files finished.
+Computations Done (204.05s).
+Creating figures...
+1  
+Elapsed time is 215.584180 seconds.
+0 of 1 'times' files finished.
+Computations Done (204.50s).
+Creating figures...
+1  
+Elapsed time is 214.027317 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.76s).
+Creating figures...
+1  
+Elapsed time is 192.512828 seconds.
+0 of 1 'times' files finished.
+Computations Done (188.13s).
+Creating figures...
+1  
+Elapsed time is 197.139363 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.53s).
+Creating figures...
+1  
+Elapsed time is 192.199206 seconds.
+0 of 1 'times' files finished.
+Computations Done (212.04s).
+Creating figures...
+1  
+Elapsed time is 225.632663 seconds.
+0 of 1 'times' files finished.
+Computations Done (186.02s).
+Creating figures...
+1  
+Elapsed time is 193.580368 seconds.
+0 of 1 'times' files finished.
+Computations Done (183.23s).
+Creating figures...
+1  
+Elapsed time is 195.278229 seconds.
+0 of 1 'times' files finished.
+Computations Done (187.01s).
+Creating figures...
+1  
+Elapsed time is 195.242082 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.70s).
+Creating figures...
+1  
+Elapsed time is 195.416861 seconds.
+0 of 1 'times' files finished.
+Computations Done (196.09s).
+Creating figures...
+1  
+Elapsed time is 207.117281 seconds.
+0 of 1 'times' files finished.
+Computations Done (67.60s).
+Creating figures...
+1  
+Elapsed time is 74.986745 seconds.
+0 of 1 'times' files finished.
+Computations Done (64.98s).
+Creating figures...
+1  
+Elapsed time is 71.987722 seconds.
+0 of 1 'times' files finished.
+Computations Done (185.10s).
+Creating figures...
+1  
+Elapsed time is 192.486729 seconds.
+0 of 1 'times' files finished.
+Computations Done (187.62s).
+Creating figures...
+1  
+Elapsed time is 196.702284 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.26s).
+Creating figures...
+1  
+Elapsed time is 191.852829 seconds.
+0 of 1 'times' files finished.
+Computations Done (188.25s).
+Creating figures...
+1  
+Elapsed time is 198.992891 seconds.
+0 of 1 'times' files finished.
+Computations Done (186.47s).
+Creating figures...
+1  
+Elapsed time is 193.724223 seconds.
+0 of 1 'times' files finished.
+Computations Done (186.57s).
+Creating figures...
+1  
+Elapsed time is 194.342786 seconds.
+0 of 1 'times' files finished.
+Computations Done (190.26s).
+Creating figures...
+1  
+Elapsed time is 201.498261 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.16s).
+Creating figures...
+1  
+Elapsed time is 187.807973 seconds.
+0 of 1 'times' files finished.
+Computations Done (182.79s).
+Creating figures...
+1  
+Elapsed time is 193.331972 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.81s).
+Creating figures...
+1  
+Elapsed time is 183.767193 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.57s).
+Creating figures...
+1  
+Elapsed time is 186.966496 seconds.
+0 of 1 'times' files finished.
+Computations Done (47.48s).
+Creating figures...
+1  
+Elapsed time is 54.777733 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.39s).
+Creating figures...
+1  
+Elapsed time is 181.615574 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.87s).
+Creating figures...
+1  
+Elapsed time is 181.962496 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.99s).
+Creating figures...
+1  
+Elapsed time is 186.922089 seconds.
+0 of 1 'times' files finished.
+Computations Done (173.76s).
+Creating figures...
+1  
+Elapsed time is 181.479032 seconds.
+0 of 1 'times' files finished.
+Computations Done (183.75s).
+Creating figures...
+1  
+Elapsed time is 194.514791 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.45s).
+Creating figures...
+1  
+Elapsed time is 182.885854 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.59s).
+Creating figures...
+1  
+Elapsed time is 191.347560 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.48s).
+Creating figures...
+1  
+Elapsed time is 183.074741 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.52s).
+Creating figures...
+1  
+Elapsed time is 183.840241 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.79s).
+Creating figures...
+1  
+Elapsed time is 184.749737 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.85s).
+Creating figures...
+1  
+Elapsed time is 184.824400 seconds.
+0 of 1 'times' files finished.
+Computations Done (181.96s).
+Creating figures...
+1  
+Elapsed time is 191.201880 seconds.
+0 of 1 'times' files finished.
+Computations Done (173.32s).
+Creating figures...
+1  
+Elapsed time is 180.543621 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.22s).
+Creating figures...
+1  
+Elapsed time is 184.692188 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.59s).
+Creating figures...
+1  
+Elapsed time is 181.712209 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.27s).
+Creating figures...
+1  
+Elapsed time is 186.017442 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.40s).
+Creating figures...
+1  
+Elapsed time is 189.547716 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.10s).
+Creating figures...
+1  
+Elapsed time is 187.551096 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.99s).
+Creating figures...
+1  
+Elapsed time is 183.596816 seconds.
+0 of 1 'times' files finished.
+Computations Done (187.63s).
+Creating figures...
+1  
+Elapsed time is 199.220045 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.87s).
+Creating figures...
+1  
+Elapsed time is 192.429614 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.41s).
+Creating figures...
+1  
+Elapsed time is 181.431005 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.89s).
+Creating figures...
+1  
+Elapsed time is 185.580328 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.37s).
+Creating figures...
+1  
+Elapsed time is 184.790506 seconds.
+0 of 1 'times' files finished.
+Computations Done (181.14s).
+Creating figures...
+1  
+Elapsed time is 188.705440 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.46s).
+Creating figures...
+1  
+Elapsed time is 188.521213 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.82s).
+Creating figures...
+1  
+Elapsed time is 192.184080 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.80s).
+Creating figures...
+1  
+Elapsed time is 184.606395 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.91s).
+Creating figures...
+1  
+Elapsed time is 193.040143 seconds.
+0 of 1 'times' files finished.
+Computations Done (171.99s).
+Creating figures...
+1  
+Elapsed time is 179.000733 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.47s).
+Creating figures...
+1  
+Elapsed time is 186.555200 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.17s).
+Creating figures...
+1  
+Elapsed time is 181.388695 seconds.
+0 of 1 'times' files finished.
+Computations Done (200.56s).
+Creating figures...
+1  
+Elapsed time is 213.856710 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.43s).
+Creating figures...
+1  
+Elapsed time is 181.676397 seconds.
+0 of 1 'times' files finished.
+Computations Done (173.46s).
+Creating figures...
+1  
+Elapsed time is 185.160343 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.98s).
+Creating figures...
+1  
+Elapsed time is 184.874256 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.47s).
+Creating figures...
+1  
+Elapsed time is 185.132665 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.97s).
+Creating figures...
+1  
+Elapsed time is 195.865777 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.11s).
+Creating figures...
+1  
+Elapsed time is 182.990044 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.67s).
+Creating figures...
+1  
+Elapsed time is 183.338911 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.61s).
+Creating figures...
+1  
+Elapsed time is 186.115961 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.68s).
+Creating figures...
+1  
+Elapsed time is 183.369885 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.06s).
+Creating figures...
+1  
+Elapsed time is 185.389287 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.26s).
+Creating figures...
+1  
+Elapsed time is 184.131329 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.31s).
+Creating figures...
+1  
+Elapsed time is 192.810307 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.29s).
+Creating figures...
+1  
+Elapsed time is 190.491348 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.39s).
+Creating figures...
+1  
+Elapsed time is 186.493603 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.29s).
+Creating figures...
+1  
+Elapsed time is 186.682628 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.94s).
+Creating figures...
+1  
+Elapsed time is 182.298252 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.13s).
+Creating figures...
+1  
+Elapsed time is 185.640454 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.92s).
+Creating figures...
+1  
+Elapsed time is 188.610240 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.52s).
+Creating figures...
+1  
+Elapsed time is 183.684806 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.01s).
+Creating figures...
+1  
+Elapsed time is 184.998356 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.09s).
+Creating figures...
+1  
+Elapsed time is 182.353699 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.61s).
+Creating figures...
+1  
+Elapsed time is 183.812898 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.41s).
+Creating figures...
+1  
+Elapsed time is 185.835411 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.34s).
+Creating figures...
+1  
+Elapsed time is 185.557965 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.80s).
+Creating figures...
+1  
+Elapsed time is 182.647032 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.59s).
+Creating figures...
+1  
+Elapsed time is 186.943941 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.22s).
+Creating figures...
+1  
+Elapsed time is 183.336647 seconds.
+0 of 1 'times' files finished.
+Computations Done (181.00s).
+Creating figures...
+1  
+Elapsed time is 188.511784 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.11s).
+Creating figures...
+1  
+Elapsed time is 181.382277 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.59s).
+Creating figures...
+1  
+Elapsed time is 185.196256 seconds.
+double free or corruption (out)
+
+MATLAB is exiting because of fatal error
+Killed
+0 of 1 'times' files finished.
+Computations Done (175.70s).
+Creating figures...
+1  
+Elapsed time is 183.008395 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.77s).
+Creating figures...
+1  
+Elapsed time is 184.753141 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.25s).
+Creating figures...
+1  
+Elapsed time is 184.772706 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.54s).
+Creating figures...
+1  
+Elapsed time is 183.086090 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.23s).
+Creating figures...
+1  
+Elapsed time is 188.884506 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.76s).
+Creating figures...
+1  
+Elapsed time is 185.950340 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.43s).
+Creating figures...
+1  
+Elapsed time is 185.839828 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.89s).
+Creating figures...
+1  
+Elapsed time is 183.427133 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.87s).
+Creating figures...
+1  
+Elapsed time is 183.440436 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.61s).
+Creating figures...
+1  
+Elapsed time is 187.411537 seconds.
+0 of 1 'times' files finished.
+Computations Done (58.04s).
+Creating figures...
+1  
+Elapsed time is 65.221839 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.53s).
+Creating figures...
+1  
+Elapsed time is 181.594118 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.29s).
+Creating figures...
+1  
+Elapsed time is 182.295104 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.13s).
+Creating figures...
+1  
+Elapsed time is 183.257163 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.68s).
+Creating figures...
+1  
+Elapsed time is 181.779634 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.03s).
+Creating figures...
+1  
+Elapsed time is 189.400064 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.86s).
+Creating figures...
+1  
+Elapsed time is 188.561396 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.23s).
+Creating figures...
+1  
+Elapsed time is 187.492653 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.01s).
+Creating figures...
+1  
+Elapsed time is 182.470256 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.32s).
+Creating figures...
+1  
+Elapsed time is 182.640123 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.61s).
+Creating figures...
+1  
+Elapsed time is 184.991270 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.67s).
+Creating figures...
+1  
+Elapsed time is 186.178624 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.73s).
+Creating figures...
+1  
+Elapsed time is 185.319480 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.28s).
+Creating figures...
+1  
+Elapsed time is 185.067243 seconds.
+0 of 1 'times' files finished.
+Computations Done (62.04s).
+Creating figures...
+1  
+Elapsed time is 69.384904 seconds.
+0 of 1 'times' files finished.
+Computations Done (185.75s).
+Creating figures...
+1  
+Elapsed time is 193.282147 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.47s).
+Creating figures...
+1  
+Elapsed time is 186.860975 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.84s).
+Creating figures...
+1  
+Elapsed time is 185.257621 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.64s).
+Creating figures...
+1  
+Elapsed time is 185.901869 seconds.
+0 of 1 'times' files finished.
+Computations Done (186.97s).
+Creating figures...
+1  
+Elapsed time is 196.938531 seconds.
+0 of 1 'times' files finished.
+Computations Done (183.19s).
+Creating figures...
+1  
+Elapsed time is 191.084333 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.02s).
+Creating figures...
+1  
+Elapsed time is 188.460461 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.96s).
+Creating figures...
+1  
+Elapsed time is 184.415187 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.61s).
+Creating figures...
+1  
+Elapsed time is 183.995489 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.64s).
+Creating figures...
+1  
+Elapsed time is 187.273301 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.73s).
+Creating figures...
+1  
+Elapsed time is 188.569397 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.81s).
+Creating figures...
+1  
+Elapsed time is 186.589406 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.84s).
+Creating figures...
+1  
+Elapsed time is 185.786417 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.88s).
+Creating figures...
+1  
+Elapsed time is 183.282543 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.92s).
+Creating figures...
+1  
+Elapsed time is 182.991943 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.51s).
+Creating figures...
+1  
+Elapsed time is 187.521865 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.68s).
+Creating figures...
+1  
+Elapsed time is 185.050762 seconds.
+0 of 1 'times' files finished.
+Computations Done (181.90s).
+Creating figures...
+1  
+Elapsed time is 189.384094 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.67s).
+Creating figures...
+1  
+Elapsed time is 183.962973 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.82s).
+Creating figures...
+1  
+Elapsed time is 194.799050 seconds.
+0 of 1 'times' files finished.
+Computations Done (185.05s).
+Creating figures...
+1  
+Elapsed time is 193.492318 seconds.
+0 of 1 'times' files finished.
+Computations Done (186.71s).
+Creating figures...
+1  
+Elapsed time is 196.342889 seconds.
+0 of 1 'times' files finished.
+Computations Done (176.34s).
+Creating figures...
+1  
+Elapsed time is 183.786508 seconds.
+0 of 1 'times' files finished.
+Computations Done (179.41s).
+Creating figures...
+1  
+Elapsed time is 188.558278 seconds.
+0 of 1 'times' files finished.
+Computations Done (184.53s).
+Creating figures...
+1  
+Elapsed time is 195.981955 seconds.
+0 of 1 'times' files finished.
+Computations Done (115.99s).
+Creating figures...
+1  
+Elapsed time is 123.487237 seconds.
+0 of 1 'times' files finished.
+Computations Done (182.56s).
+Creating figures...
+1  
+Elapsed time is 192.186559 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.39s).
+Creating figures...
+1  
+Elapsed time is 187.799556 seconds.
+0 of 1 'times' files finished.
+Computations Done (181.46s).
+Creating figures...
+1  
+Elapsed time is 188.793423 seconds.
+0 of 1 'times' files finished.
+Computations Done (174.67s).
+Creating figures...
+1  
+Elapsed time is 181.915826 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.61s).
+Creating figures...
+1  
+Elapsed time is 184.620465 seconds.
+0 of 1 'times' files finished.
+Computations Done (177.66s).
+Creating figures...
+1  
+Elapsed time is 185.341901 seconds.
+0 of 1 'times' files finished.
+Computations Done (181.75s).
+Creating figures...
+1  
+Elapsed time is 189.469023 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.73s).
+Creating figures...
+1  
+Elapsed time is 182.951336 seconds.
+0 of 1 'times' files finished.
+Computations Done (175.47s).
+Creating figures...
+1  
+Elapsed time is 182.986256 seconds.
+0 of 1 'times' files finished.
+Computations Done (178.00s).
+Creating figures...
+1  
+Elapsed time is 187.374208 seconds.
+0 of 1 'times' files finished.
+Computations Done (180.78s).
+Creating figures...
+1  
+Elapsed time is 191.404070 seconds.
