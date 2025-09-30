@@ -54,7 +54,8 @@ def run_waveclus(
         # Commandes MATLAB Wave_Clus avec tous les sous-dossiers
         get_spikes_cmd = (
             f"matlab -nodesktop -nosplash -batch "
-            f"\"addpath(genpath('{waveclus_path}')); cd('{raw_data_path}'); Get_spikes('{fichier_mat}');\""
+            f"\"addpath(genpath('{waveclus_path}')); cd('{raw_data_path}'); "
+            f"clear all; close all; Get_spikes('{fichier_mat}'); exit;\""
         )
         do_clustering_cmd = (
             f"matlab -nodesktop -nosplash -batch "
